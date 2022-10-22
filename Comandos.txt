@@ -1,2 +1,3 @@
 comandos git: 
--git init: é utilizado para inicializar um repositório local
+-git init: é utilizado para inicializar um repositório local.
+git add:é utilizado para adiocionar os arquivos alterados á área de versionamento(stage area) que depois serão comitados.
